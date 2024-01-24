@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034306110439",
+    "project_id": "meromahinaa",
+    "storage_bucket": "meromahinaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034306110439:android:15331c19ca02d0698db342",
+        "android_client_info": {
+          "package_name": "com.example.mero_mahinaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpry2FHrvCLGeuYl0lWmObiwsCZJjutI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
